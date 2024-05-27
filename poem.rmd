@@ -38,8 +38,52 @@ All mimsy were the borogoves,
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+I went to turn the grass once after one
+
+
+Who mowed it in the dew before the sun.
+
+
+The dew was gone that made his blade so keen
+
+
+Before I came to view the levelled scene.
+
+
+I looked for him behind an isle of trees;
+
+
+I listened for his whetstone on the breeze.
+
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+
+The sun was shining on the sea,
+   Shining with all his might
+   
+   
+He did his very best to make
+   The billows smooth and bright—
+
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+A thing of beauty is a joy for ever:
+
+
+Its loveliness increases; it will never
+
+
+Pass into nothingness; but still will keep
+
+
+A bower quiet for us, and a sleep
+
+
+Full of sweet dreams, and health, and quiet breathing.
+
+
+– John Keats (1)
